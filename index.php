@@ -74,7 +74,6 @@
    
 
     <h1> PROPITIX TOOLING WEBSITE </h1>
-	<h2> YUSUFF IS HERE </h2>
     <h2 id="test">Propitix.io</h2>
 
 
